@@ -15,8 +15,9 @@
 
 
 ## Steam好友列表
-| Avatar                                                                            | Name   | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
-|:----------------------------------------------------------------------------------|:-------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/6889e542266ff1eca9c32d7f405a723a0e19f756.jpg) | 猫じゃなので | [76561198854530860](https://steamcommunity.com/profiles/76561198854530860/) | ✅           | 2026-07-07 10:40:53 |                |          |
-| ![](https://avatars.steamstatic.com/c44bfec6d6bf7e33f4ab72397a08a16c0e59fe93.jpg) | 4K     | [76561198419695803](https://steamcommunity.com/profiles/76561198419695803/) | ✅           | 2026-07-30 13:01:58 |                |          |
-| ![](https://avatars.steamstatic.com/c2c51159307ac0e5c3960f0df31732a07cd85cd0.jpg) | WEI    | [76561198926318918](https://steamcommunity.com/profiles/76561198926318918/) | ✅           | 2026-08-24 23:02:53 |                |          |
+| Avatar                                                                            | Name      | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
+|:----------------------------------------------------------------------------------|:----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
+| ![](https://avatars.steamstatic.com/6889e542266ff1eca9c32d7f405a723a0e19f756.jpg) | 猫じゃなので    | [76561198854530860](https://steamcommunity.com/profiles/76561198854530860/) | ✅           | 2026-07-07 10:40:53 |                |          |
+| ![](https://avatars.steamstatic.com/c44bfec6d6bf7e33f4ab72397a08a16c0e59fe93.jpg) | 4K        | [76561198419695803](https://steamcommunity.com/profiles/76561198419695803/) | ✅           | 2026-07-30 13:01:58 |                |          |
+| ![](https://avatars.steamstatic.com/c2c51159307ac0e5c3960f0df31732a07cd85cd0.jpg) | WEI       | [76561198926318918](https://steamcommunity.com/profiles/76561198926318918/) | ✅           | 2026-08-24 23:02:53 |                |          |
+| ![](https://avatars.steamstatic.com/148ff422f2245ab66abfeabf3f7506861d6b703b.jpg) | 你媽死了你知不知道 | [76561198299461723](https://steamcommunity.com/profiles/76561198299461723/) | ✅           | 2026-08-25 23:40:11 |                |          |
