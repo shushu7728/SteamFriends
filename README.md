@@ -21,3 +21,4 @@
 | ![](https://avatars.steamstatic.com/c44bfec6d6bf7e33f4ab72397a08a16c0e59fe93.jpg) | 4K        | [76561198419695803](https://steamcommunity.com/profiles/76561198419695803/) | ✅           | 2026-07-30 13:01:58 |                |          |
 | ![](https://avatars.steamstatic.com/c2c51159307ac0e5c3960f0df31732a07cd85cd0.jpg) | WEI       | [76561198926318918](https://steamcommunity.com/profiles/76561198926318918/) | ✅           | 2026-08-24 23:02:53 |                |          |
 | ![](https://avatars.steamstatic.com/148ff422f2245ab66abfeabf3f7506861d6b703b.jpg) | 你媽死了你知不知道 | [76561198299461723](https://steamcommunity.com/profiles/76561198299461723/) | ✅           | 2026-08-25 23:40:11 |                |          |
+| ![](https://avatars.steamstatic.com/c574b2be88a09479df2e87e5060a77be741f63e0.jpg) | 冷吱吱       | [76561198804567220](https://steamcommunity.com/profiles/76561198804567220/) | ✅           | 2026-08-29 06:24:14 |                |          |
